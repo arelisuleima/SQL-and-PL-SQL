@@ -8,6 +8,7 @@ Espero que puedan contribuir a nuevas soluciones 😄
 - Functions
 - Packages
 - Cursors
+ 
  :cherry_blossom: 
  HR SCHEMA: El esquema HR(Human Resources) consta de una base de datos que consta de datos de los empleados de una compañia. Estos datos van desde sus respectivos ID hasta los datos de los Managers, Departamentos, Empleos, Locaciones y detalles de sus salarios.
  
@@ -15,3 +16,4 @@ Espero que puedan contribuir a nuevas soluciones 😄
 
 
 
+![download](https://user-images.githubusercontent.com/72313215/210271442-1ab37685-31c9-4b4d-90a3-dcb51c93cf65.png)
