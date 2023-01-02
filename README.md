@@ -10,7 +10,7 @@ Espero que puedan contribuir a nuevas soluciones 😄
 - Packages
 - Cursors
 :cherry_blossom: 
- HR SCHEMA: El esquema HR(Human Resources) consta de una base de datos que consta de datos de los empleados de una compañia. Estos datos van desde sus respectivos ID hasta los datos de los Managers, Departamentos, Empleos, Locaciones y detalles de sus salarios.
+# HR SCHEMA: El esquema HR(Human Resources) consta de una base de datos que consta de datos de los empleados de una compañia. Estos datos van desde sus respectivos ID hasta los datos de los Managers, Departamentos, Empleos, Locaciones y detalles de sus salarios.
  
 
 
