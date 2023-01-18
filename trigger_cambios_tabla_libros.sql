@@ -1,7 +1,11 @@
---CREAR UN TRIGGER QUE INSERTE, BORRE Y ACTUALICE DATOS DE UNA TABLA
+-- TRigger que inserta, actualiza y borra datos de la tabla LIBROS 
+-- Los cambios efectuados los almacena en la tabla CONTROL 
+-- Cada vez que se consulta la tabla CONTROL se muestra el usuario, acción, fecha y hora de ejecución.
+
 drop table libros;
 drop table control;
--- Tabla libros
+
+-- Creación tabla libros
 create table libros(
   codigo number(6),
   titulo varchar2(40),
@@ -9,7 +13,7 @@ create table libros(
   editorial varchar2(20),
   precio number(6,2)
  );
- -- Tabla Control
+ -- Creación tabla Control
  create table control(
   usuario varchar2(30),
   fecha date,
