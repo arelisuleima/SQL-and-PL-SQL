@@ -1,5 +1,5 @@
 # PL/SQL
-![download](https://user-images.githubusercontent.com/72313215/210271442-1ab37685-31c9-4b4d-90a3-dcb51c93cf65.png)
+<img align="left" width="200" height="200" src= "https://user-images.githubusercontent.com/72313215/210271442-1ab37685-31c9-4b4d-90a3-dcb51c93cf65.png">
 ## Acerca de
 Aqui subo mis ejercicios (consultas) de práctica en PL/SQL.💚
 
@@ -20,8 +20,6 @@ Espero que puedan contribuir a nuevas soluciones 😄
 
 :cherry_blossom: 
 HR SCHEMA: El esquema HR(Human Resources) consta de una base de datos que consta de datos de los empleados de una compañia. Estos datos van desde sus respectivos ID hasta los datos de los Managers, Departamentos, Empleos, Locaciones y detalles de sus salarios.
-![phpXsNvos](https://user-images.githubusercontent.com/72313215/210272102-28674cee-9ce2-457c-bd61-55cf0934777e.png)
- 
 
 
 
