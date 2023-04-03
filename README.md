@@ -1,15 +1,20 @@
-# PL/SQL
-<img align="left" width="200" height="200" src= "https://user-images.githubusercontent.com/72313215/210271442-1ab37685-31c9-4b4d-90a3-dcb51c93cf65.png">
-## Acerca de
-Aqui subo mis ejercicios (consultas) de práctica en PL/SQL.💚
+**SQL and PL/SQL for Beginners** 
 
-Todos son realizados en base al esquema HR de la base de datos de Oracle.💻
+Hello!🐸 Welcome to my GitHub repository where I'll be sharing some SQL and PL/SQL codes. In this repository, you'll find a variety of scripts and queries that I have created to solve different problems related to databases and data management systems.
 
-Cualquier version de SQL Developer es valida(Aunque yo use la version 12c, estos ejercicios funcionan desde la 11g).😸
+These codes can be useful for those who are learning SQL and PL/SQL or for those who are looking for solutions to specific problems in their projects. Moreover, you can also use these codes as a starting point to create your own solutions.
 
-Espero que puedan contribuir a nuevas soluciones 😄
+I hope that these codes will be helpful to you and feel free to use and modify them according to your needs 😊. If you have any questions or suggestions, please don't hesitate to contact me.
+
+Thank you for visiting my repository! 🤗
+
 <details>
-<summary> Temas </summary>
+<summary> Topics </summary>
+-Queries
+- Subqueries
+- Joins
+- Restricting and sorting data
+- Distinc statements
 - Blocks
 - Procedures
 - Functions
@@ -18,8 +23,7 @@ Espero que puedan contribuir a nuevas soluciones 😄
 -Triggers
 </details>
 
-:cherry_blossom: 
-HR SCHEMA: El esquema HR(Human Resources) consta de una base de datos que consta de datos de los empleados de una compañia. Estos datos van desde sus respectivos ID hasta los datos de los Managers, Departamentos, Empleos, Locaciones y detalles de sus salarios.
+
 
 
 
