@@ -1,6 +1,6 @@
-**SQL practical exam**
+## **SQL practical exam**
 
-*Taking into account the HR scheme, solve the following questions.*
+> *Taking into account the HR scheme, solve the following questions.*
 
 1. Create a query that returns all those records where the last_name field begins with the letter k:
  ```sql
