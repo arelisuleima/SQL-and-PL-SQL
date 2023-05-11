@@ -1,4 +1,4 @@
-
+//Bloque que aumenta el salario de los empleados 
 declare
   v_deptid  employees.department_id%type;
   v_salary  employees.salary%type;
