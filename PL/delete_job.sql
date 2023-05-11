@@ -1,3 +1,4 @@
+//Procedimiento que elimina empleados según el JOB_ID
 create or replace 
 procedure borrar_empleo(empleo varchar2)
 is 
