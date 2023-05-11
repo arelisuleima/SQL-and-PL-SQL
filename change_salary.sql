@@ -1,3 +1,4 @@
+//Procedimiento que actualiza el salario de los empleados
 create or replace 
 procedure cambiar_salario(p_empid number, p_salary number)
 is
