@@ -1,0 +1,20 @@
+## PL/SQL ✨
+
+ > ***Advantages of PL/SQL***:
+
+- **Integration of procedure constructs with SQL**: When issuing an SQL command, it tells the database server what to do, but not how to do it. PL/SQL integrates SQL statements and their execution.
+- **Improved performance**: SQL statements can be combined into a single program unit.
+- **Modular program development**: The basic unit of PL/SQL programs is blocks. Blocks can be in sequence or nested in other blocks.
+- **Integration with tools**: It is integrated into Oracle tools such as Oracle Forms and Oracle Reports. This means that it processes statements and procedures and only transfers SQL statements to the database.
+- **Portability**: Portable program packages can be written and libraries can be created that can be reused in different environments.
+- **Exception handling**: PL/SQL shares the same data type system as SQL (only with some extensions) and uses the same expression syntax.
+> **Data types**:
+Similarly to SQL, PL/SQL uses the same data types. These data types can be used to `DECLARE` variables or in c`ursors to define the data type of each variable within the established parameters.
+<img width="350" alt="image" src="https://github.com/arelisuleima/SQL-and-PL-SQL/assets/72313215/2f4b9344-7885-4016-a6d0-6da9c3c1823a">
+
+There are **scalar types** that, depending on the use of the variables and the data we are going to enter, we will establish their length, size or scale (in the case of numbers).
+
+We also have composite types, which are compound data types that we can manipulate within the database using keywords. The most common example is `TABLE`, which, with the help of DDL statements, allows us to modify the data that is stored within it. Data can be `CREATE`, `ALTER`, and `DELETE` within this type of data, and it can also be queried directly from the server's graphical interface.
+
+Next, we have `DATE` types that allow us to use data of the type `DATE`, with all the variations offered by the database such as time zone indicator, time, local time, seconds, minutes, etc.
+
