@@ -6,7 +6,7 @@ Hello!🐸 Welcome to my GitHub repository where I'll be sharing some SQL and PL
 
 These codes can be useful for those who are learning `SQL and PL/SQL` or for those who are looking for solutions to specific problems in their projects. Moreover, you can also use these codes as a starting point to create your own solutions.
 
-> For these practices, the version of **Oracle SQL Developer 12c** was used.
+> For these practices, the version of **Oracle SQL Developer 12c ®** was used.
 
 I hope that these codes will be helpful to you and feel free to use and modify them according to your needs 😊. If you have any questions or suggestions, please don't hesitate to contact me.
 
