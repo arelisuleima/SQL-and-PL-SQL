@@ -1,6 +1,6 @@
 **SQL and PL/SQL for Beginners** 
 
-<img src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" /><img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" width="100" height="100" />
 
 Hello!🐸 Welcome to my GitHub repository where I'll be sharing some SQL and PL /SQL codes. In this repository, you'll find a variety of scripts and queries that I have created to solve different problems related to databases and data management systems.
 
