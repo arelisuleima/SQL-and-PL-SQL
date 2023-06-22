@@ -1,4 +1,4 @@
-//Bloque que aumenta el salario de los empleados 
+--Bloque que aumenta el salario de los empleados 
 declare
   v_deptid  employees.department_id%type;
   v_salary  employees.salary%type;
@@ -15,12 +15,9 @@ begin
    else
         v_salary := v_salary * 1.25;        
   end case;
-  
+  DBMS_OUTPUT.PUT_LINE('Salario aumentado: ' || v_salary);
   update employees set salary = v_salary
   where employee_id = 130;
-  
-  rollback;
 end;
+/
 
-      
-  
