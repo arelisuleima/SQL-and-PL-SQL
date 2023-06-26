@@ -1,4 +1,5 @@
--- Calculate salary for employees by taking commission and bonus into account
+-- Calculo del salario de los empleados teniendo en cuenta la comisión y la bonificación.
+
 set serveroutput on
 declare 
   cursor empcur is 
@@ -9,9 +10,9 @@ declare
 begin 
    for emprec in empcur
    loop 
-       -- Calculate salary + commission 
+       -- Calcular salario + comision
        v_salary := emprec.salary +  emprec.salary * nvl(emprec.commission_pct,0);
-       -- Add bonus of 10% or 5% based on commission pct                   
+       -- Arega bonus de  10% o 5% basandose en el valor de la commission_pct                  
        if emprec.commission_pct is not null then
            v_salary := v_salary  + emprec.salary * 0.10;
        else
