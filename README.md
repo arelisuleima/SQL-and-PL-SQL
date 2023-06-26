@@ -33,11 +33,16 @@ Thank you for visiting my repository! 🤗
 
 The  `HR diagram` refers to the example data model provided by Oracle in its database for educational and testing purposes. This data model is frequently used to demonstrate how different tables can be created and related in a relational database using the SQL language.
 
-> The HR data model includes several tables such as: `Employees👷🏻‍♀️`, `Departments🏢`, `Jobs🔨` , `Locations🌆` and `Countries🏙️`, each representing a different entity or concept within a company. For example, the `Employees` table contains information about each employee, such as their **name**, **ID number**, and **salary**, while the `Departments` table includes information about the different departments in a company, such as the sales department or the marketing department.
+> The HR data model includes several tables such as:
+- `Employees👷🏻‍♀️`
+- `Departments🏢`
+- `Jobs🔨`
+- `Locations🌆`
+- `Countries🏙️`
+  
+Each representing a different entity or concept within a company. For example, the `Employees` table contains information about each employee, such as their **name**, **ID number**, and **salary**, while the `Departments` table includes information about the different departments in a company, such as the sales department or the marketing department.
 
 Each table in the HR model has a  **primary key 🔑** that is used to uniquely identify each record in the table. Additionally, there are **foreign keys 🔐** that are used to establish relationships between tables. For example, the "Employees" table has a foreign key that relates to the "Departments" table, indicating which department each employee works in.
-
-The Oracle SQL HR diagram visually shows how the different tables in the HR model are related. The diagram provides information about the tables, their columns, and their relationships. Rectangles represent the tables, while the lines between them represent the relationships between the tables.
 
 In summary, the Oracle SQL HR diagram is a visual representation of the example data model provided by Oracle in its database. It is a useful tool for understanding how different tables can be created and related in a relational database using the SQL language.
 
