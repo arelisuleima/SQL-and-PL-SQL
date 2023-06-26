@@ -1,3 +1,4 @@
+-- Muestra los detalles de los departamentos
 set serveroutput on
 
 declare
