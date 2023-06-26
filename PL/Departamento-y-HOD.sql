@@ -1,3 +1,5 @@
+--Bloque para mostrar el nombre del departamento seguido de el nombre del manager encargado(HOD).
+
 set serveroutput on
 declare
   v_min_deptno departments.department_id%type;
@@ -17,8 +19,8 @@ begin
         select department_name, manager_id into v_name, v_manager_id
         from departments where department_id = v_id;
         
-        if v_manager_id is null then
-          v_manager := 'NULL';
+        if V_MANAGER_ID is null then
+          v_manager := 'No asignado ';
         else
           -- get HOD name 
           select first_name into v_manager
@@ -36,4 +38,5 @@ begin
   end loop;
    
 end;    
+/
     
