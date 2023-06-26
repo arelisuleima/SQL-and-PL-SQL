@@ -1,5 +1,5 @@
--- CALCULATE BONUS BASED ON JOB HISTORY AND COMMISSION
--- 40% IF JOB HISTORY IS PRESENT, 25 % IF COMMISSION IS PRESENT OTHERWISE 35%
+-- Calculo de bonus basado en su historial de empleo(job_history) y comisión(commission_pct)
+-- 40% si job_history es el empleo actual , 25 % si tiene comisión, en otro caso 35%
 
 SET SERVEROUTPUT ON
 
