@@ -1,3 +1,4 @@
+--Muestra los empleados por departamento utilizando cursores
 set serveroutput on 
 declare
   cursor deptcur is
