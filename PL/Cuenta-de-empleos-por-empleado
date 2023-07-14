@@ -1,3 +1,5 @@
+//Muestra la cantidad de empleos que ha tenido un empleado.
+//Segun la tabla de JOB_HISTORY
 set serveroutput on
 declare
   cursor jobcur is
