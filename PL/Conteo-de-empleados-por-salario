@@ -1,3 +1,4 @@
+--Conteo de empleados segun su rango salarial
 set serveroutput on
 declare
   v_maxsal employees.salary%type;
