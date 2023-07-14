@@ -1,3 +1,4 @@
+--Muestra el nombre del departamento y su encargado utilizando cursores
 set serveroutput on
 declare
   cursor deptcur is
